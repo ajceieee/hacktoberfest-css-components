@@ -2,14 +2,14 @@
 
 <img align="right" width="300" src="https://github.com/rubenshibu/css-components/blob/contributors/images/Fork.jpg" alt="fork this repository" />
 
-#### _If you don't have git on your machine,_ [install it](https://help.github.com/articles/set-up-git/)
+# _If you don't have git on your machine,_ [install it](https://help.github.com/articles/set-up-git/)
 
-## Fork this repository
+# Fork this repository
 
 Fork this repository by clicking on the fork button on the top right corner of this page.
 This will create a copy of this repository in your account.
 
-## Clone the repository
+# Clone the repository
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
